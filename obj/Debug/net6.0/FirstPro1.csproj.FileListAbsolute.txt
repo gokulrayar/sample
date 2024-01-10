@@ -1,0 +1,29 @@
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\bin\Debug\net6.0\FirstPro1.exe
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\bin\Debug\net6.0\FirstPro1.deps.json
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\bin\Debug\net6.0\FirstPro1.runtimeconfig.json
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\bin\Debug\net6.0\FirstPro1.dll
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\bin\Debug\net6.0\FirstPro1.pdb
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\FirstPro1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\FirstPro1.AssemblyInfoInputs.cache
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\FirstPro1.AssemblyInfo.cs
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\FirstPro1.csproj.CoreCompileInputs.cache
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\FirstPro1.dll
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\refint\FirstPro1.dll
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\FirstPro1.pdb
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\FirstPro1.genruntimeconfig.cache
+F:\Mphasis practice\phase 4\Assesment\Day3 as\FirstPro1\FirstPro1\obj\Debug\net6.0\ref\FirstPro1.dll
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\bin\Debug\net6.0\FirstPro1.exe
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\bin\Debug\net6.0\FirstPro1.deps.json
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\bin\Debug\net6.0\FirstPro1.runtimeconfig.json
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\bin\Debug\net6.0\FirstPro1.dll
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\bin\Debug\net6.0\FirstPro1.pdb
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.AssemblyInfoInputs.cache
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.AssemblyInfo.cs
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.csproj.CoreCompileInputs.cache
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.sourcelink.json
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.dll
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\refint\FirstPro1.dll
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.pdb
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\FirstPro1.genruntimeconfig.cache
+F:\Mphasis practice\phase 4\Assesment\day3as\FirstPro1\obj\Debug\net6.0\ref\FirstPro1.dll
